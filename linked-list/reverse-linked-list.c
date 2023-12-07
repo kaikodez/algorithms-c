@@ -1,6 +1,3 @@
-#include <stdio.h>
-#include <stdlib.h>
-
 /*
  *
  * Reverse a linked list iteratively.
@@ -9,6 +6,9 @@
  * iteratively from scratch with no help.sa
  *
  */
+
+#include <stdio.h>
+#include <stdlib.h>
 
 typedef struct node {
     int value;
