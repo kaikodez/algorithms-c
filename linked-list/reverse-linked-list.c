@@ -3,7 +3,7 @@
  * Reverse a linked list iteratively.
  *
  * Note: First time writing this function
- * iteratively from scratch with no help.sa
+ * iteratively from scratch with no help.
  *
  */
 
